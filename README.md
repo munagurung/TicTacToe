@@ -4,7 +4,7 @@
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/tictactoe.PNG"/>
 </p>
 
-<h5>Implemented functionalities:</h5>
+<h3>Implemented functionalities:</h3>
 
 <p>
 - Two players O and X can play the game.
