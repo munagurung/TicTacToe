@@ -6,7 +6,7 @@ Implemented functionalities:
 - Two players O and X can play the game.
 
 - Only valid row and column number from 1 to 3 allowed to be input by user.
-<p align="center">
+<p>
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/invalidnumber.PNG"/>
 </p>
 - Reprompt for row and column number if invalid input submitted, for example: alphabets or invalid numbers/ characters.
