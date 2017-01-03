@@ -3,7 +3,7 @@
 <p>
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/tictactoe.PNG"/>
 </p>
-
+<br>
 <h3>Implemented functionalities:</h3>
 
 <p>
