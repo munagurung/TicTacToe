@@ -1,13 +1,15 @@
 # TicTacToe
-Tic Tac Toe JAVA console game
+<h2>Tic Tac Toe JAVA console game</h2>
 <p>
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/tictactoe.PNG"/>
 </p>
 
-Implemented functionalities:
+<h5>Implemented functionalities:</h5>
 
+<p>
 - Two players O and X can play the game.
-
+</p>
+<br>
 <p>
 - Only valid row and column number from 1 to 3 allowed to be input by user.
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/maxnumber.PNG"/>
