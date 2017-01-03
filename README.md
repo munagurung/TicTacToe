@@ -7,9 +7,9 @@ Tic Tac Toe JAVA console game
 Implemented functionalities:
 
 - Two players O and X can play the game.
-
-- Only valid row and column number from 1 to 3 allowed to be input by user.
 <p>
+- Only valid row and column number from 1 to 3 allowed to be input by user.
+
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/maxnumber.PNG"/>
 </p>
 - Reprompt for row and column number if invalid input submitted, for example: alphabets or invalid numbers/ characters.
