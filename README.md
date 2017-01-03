@@ -1,4 +1,3 @@
-# TicTacToe
 <h2>Tic Tac Toe JAVA console game</h2>
 <p>
   <img src="https://github.com/munagurung/ProjectImages/blob/master/tictactoe/tictactoe.PNG"/>
